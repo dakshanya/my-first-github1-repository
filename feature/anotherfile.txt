@@ -2,3 +2,5 @@ this line wa replaced in feature2 branch
 
 this file was modified
 this file was added in feature-2 branch
+
+..feature2 txt
